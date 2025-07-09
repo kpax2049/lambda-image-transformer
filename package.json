@@ -1,0 +1,9 @@
+{
+  "name": "image-transformer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "sharp": "^0.32.1",
+    "aws-sdk": "^2.1485.0"
+  }
+}
